@@ -1,2 +1,2 @@
-def solve(x):
+def square_number(x):
     return x * x
